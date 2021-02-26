@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png" data-event-opts="{{[['tap',[['initLogin']]]]}}" bindtap="__e"></image><text>{{username}}</text></view>
